@@ -4,7 +4,7 @@ A tool designed to aid in programatically using datasets of facial features with
 ## Requirements
 In order for this library to function correctly, the dataset to be used must be formatted in the following way.
 
-![Graph](img/fileGraph.png)
+![Graph](https://raw.githubusercontent.com/2019-summer-research/Facial-Recgonition-Dataset-API/master/img/FileGraph.png)
 
 * A dataset root directory must contain a list of other directories. One for each person to be used.
 * Each person directory must have multiple images within it of (.jpg) or (.png) format. 
